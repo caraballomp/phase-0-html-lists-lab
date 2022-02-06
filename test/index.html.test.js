@@ -88,6 +88,6 @@ describe("the <ol> tag", () => {
     expect(second).contain.text("Place bread in frying pan and fry");
     expect(third).contain.text("Add cheese on top of bread");
     expect(fourth).contain.text("Cover with second slice of bread");
-    expect(fifth).contain.text("Turn over and fry for 2 minutes");
+    expect(fifth).contain.text("Turn over an d fry for 2 minutes");
   });
 });
